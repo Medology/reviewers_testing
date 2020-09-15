@@ -1,1 +1,4 @@
-* @crumpet-tenured-devs
+*.js  @fortoulrodolfo
+*.txt @BKorenek
+*.php @fortoulrodolfo
+*     @crumpet-tenured-devs
